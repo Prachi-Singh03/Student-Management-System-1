@@ -89,13 +89,6 @@ This project was built to practice:
 
 ---
 
-## 👨‍💻 Author
-
-**Abdel-Moneim Khaled**
-
-GitHub:
-https://github.com/men3oom
-
 ---
 
 ## ⭐ Support
